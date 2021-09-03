@@ -1,0 +1,18 @@
+body{
+    background-color: #f3c212;
+    border:solid 2px #790edd;
+}
+header{
+    color: #e85a4f;
+border-bottom: 10px dotted #254e58;
+
+}
+h2{
+    color: #2c3531;
+    text-align: center;
+}
+footer{
+    border:solid 5px green;
+    margin:10px;
+    
+}
